@@ -1,0 +1,1 @@
+cmd_drivers/bluetooth/hci_uart.o := ./../prebuilts/gcc/linux-x86/arm/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ld -EL    -r -o drivers/bluetooth/hci_uart.o drivers/bluetooth/hci_ldisc.o drivers/bluetooth/hci_h4.o drivers/bluetooth/hci_ll.o 
